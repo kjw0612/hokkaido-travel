@@ -1,0 +1,68 @@
+
+> hokkaido-travel-planner@1.0.0 dev
+> vite
+
+
+  VITE v5.4.19  ready in 108 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+오전 7:26:20 [vite] hmr update /hokkaido-travel-planner.tsx
+오전 7:27:10 [vite] hmr update /hokkaido-travel-planner.tsx
+오전 7:28:59 [vite] hmr update /hokkaido-travel-planner.tsx
+오전 7:29:10 [vite] hmr update /hokkaido-travel-planner.tsx
+오전 7:29:16 [vite] hmr update /hokkaido-travel-planner.tsx
+오전 7:29:21 [vite] hmr update /hokkaido-travel-planner.tsx
+오전 7:30:14 [vite] hmr update /hokkaido-travel-planner.tsx
+오전 7:34:59 [vite] hmr update /hokkaido-travel-planner.tsx
+오전 7:35:46 [vite] hmr update /hokkaido-travel-planner.tsx
+오전 7:37:24 [vite] hmr update /hokkaido-travel-planner.tsx
+오전 7:37:38 [vite] hmr update /hokkaido-travel-planner.tsx
+오전 7:43:55 [vite] hmr update /hokkaido-travel-planner.tsx
+오전 7:44:07 [vite] hmr update /hokkaido-travel-planner.tsx
+오전 7:45:48 [vite] hmr update /hokkaido-travel-planner.tsx
+오전 7:47:38 [vite] hmr update /hokkaido-travel-planner.tsx
+오전 7:48:36 [vite] hmr update /hokkaido-travel-planner.tsx
+오전 7:50:01 [vite] hmr update /hokkaido-travel-planner.tsx
+오전 7:51:13 [vite] hmr update /hokkaido-travel-planner.tsx
+오전 7:52:31 [vite] hmr update /hokkaido-travel-planner.tsx
+오전 7:53:27 [vite] hmr update /hokkaido-travel-planner.tsx
+오전 7:59:07 [vite] vite.config.js changed, restarting server...
+Re-optimizing dependencies because lockfile has changed
+오전 7:59:07 [vite] server restarted.
+
+  ➜  Local:   http://localhost:5173/hokkaido-travel/
+  ➜  Network: use --host to expose
+오전 8:57:38 [vite] hmr update /hokkaido-travel-planner.tsx
+오전 8:57:38 [vite] vite.config.js changed, restarting server...
+오전 8:57:38 [vite] server restarted.
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+오전 8:57:38 [vite] Pre-transform error: Failed to load url /hokkaido-travel/assets/index-BfHQlLEf.js (resolved id: /hokkaido-travel/assets/index-BfHQlLEf.js). Does the file exist?
+오전 8:57:39 [vite] Pre-transform error: Failed to load url /hokkaido-travel/assets/index-BfHQlLEf.js (resolved id: /hokkaido-travel/assets/index-BfHQlLEf.js). Does the file exist?
+오전 8:57:48 [vite] page reload index.html
+오전 8:57:50 [vite] ✨ new dependencies optimized: react, react-dom/client, lucide-react, prop-types
+오전 8:57:50 [vite] ✨ optimized dependencies changed. reloading
+오전 9:05:16 [vite] page reload hokkaido-travel-planner.tsx
+오전 9:12:02 [vite] page reload hokkaido-travel-planner.tsx
+오전 9:12:22 [vite] page reload hokkaido-travel-planner.tsx
+오전 9:12:29 [vite] page reload hokkaido-travel-planner.tsx
+오전 9:12:51 [vite] page reload hokkaido-travel-planner.tsx
+오전 9:13:24 [vite] page reload hokkaido-travel-planner.tsx
+오전 9:13:37 [vite] page reload hokkaido-travel-planner.tsx
+오전 9:14:13 [vite] page reload hokkaido-travel-planner.tsx
+오전 9:14:34 [vite] page reload hokkaido-travel-planner.tsx
+오전 9:15:09 [vite] page reload hokkaido-travel-planner.tsx
+오전 9:15:26 [vite] page reload hokkaido-travel-planner.tsx
+오전 9:15:51 [vite] page reload hokkaido-travel-planner.tsx
+오전 9:15:55 [vite] page reload hokkaido-travel-planner.tsx
+오전 9:16:00 [vite] page reload hokkaido-travel-planner.tsx
+오전 9:16:04 [vite] page reload hokkaido-travel-planner.tsx
+오전 9:16:09 [vite] page reload hokkaido-travel-planner.tsx
+오전 9:16:13 [vite] page reload hokkaido-travel-planner.tsx
+오전 9:16:17 [vite] page reload hokkaido-travel-planner.tsx
+오전 9:16:18 [vite] page reload hokkaido-travel-planner.tsx
+오전 9:16:40 [vite] page reload hokkaido-travel-planner.tsx
+오전 9:16:53 [vite] page reload hokkaido-travel-planner.tsx
+오전 9:17:29 [vite] page reload hokkaido-travel-planner.tsx

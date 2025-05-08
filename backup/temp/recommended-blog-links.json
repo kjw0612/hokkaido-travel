@@ -1,0 +1,144 @@
+{
+  "links": [
+    {
+      "id": "social-sapporo",
+      "location": "Social media panel - Sapporo info",
+      "current_link": "https://bohemihan.tistory.com/entry/삿포로ㅣ꼭-가봐야할-곳만-담은-당일치기-여행코스",
+      "recommended_link": "https://welcome2k.tistory.com/entry/삿포로-관광지-완벽-가이드-놓치면-후회할-핫스팟-10선",
+      "label": "삿포로 관광 정보",
+      "reason": "이 블로그는 삿포로의 주요 관광지 10곳을 상세하게 소개하며, 각 장소의 입장료, 운영 시간, 교통 정보까지 포함한 종합적인 정보를 제공합니다. 최신 정보(2024년)를 담고 있어 더 유용합니다.",
+      "line_number": 100,
+      "action": "replace"
+    },
+    {
+      "id": "social-guide",
+      "location": "Social media panel - Travel guide",
+      "current_link": "https://blog.naver.com/interest11755/223755727358",
+      "recommended_link": "https://blog.naver.com/interest11755/223755727358",
+      "label": "여행 가이드",
+      "reason": "이 링크는 비교적 최신(2024년)이며 좋은 정보를 제공하므로 유지하는 것이 좋습니다.",
+      "line_number": 109,
+      "action": "keep"
+    },
+    {
+      "id": "overview-sapporo",
+      "location": "Overview component - Sapporo region",
+      "current_link": "https://bohemihan.tistory.com/entry/삿포로ㅣ꼭-가봐야할-곳만-담은-당일치기-여행코스",
+      "recommended_link": "https://welcome2k.tistory.com/entry/삿포로-관광지-완벽-가이드-놓치면-후회할-핫스팟-10선",
+      "label": "삿포로",
+      "reason": "같은 이유로 삿포로 관광 정보에 더 포괄적이고 최신 정보를 제공합니다.",
+      "line_number": 301,
+      "action": "replace"
+    },
+    {
+      "id": "overview-otaru",
+      "location": "Overview component - Otaru region",
+      "current_link": "https://note4456.tistory.com/entry/%ED%99%8B%EC%B9%B4%EC%9D%B4%EB%8F%84-%EC%97%AC%ED%96%89-%EA%B0%80%EC%9D%B4%EB%93%9C-%F0%9F%9A%85%E2%9D%84%EF%B8%8F",
+      "recommended_link": "https://winters-story.tistory.com/entry/오타루-여행코스",
+      "label": "오타루",
+      "reason": "winters-story의 블로그는 오타루 여행코스를 더 전문적으로 다루며, 오타루 운하, 사카이마치 거리, 오르골당 등 주요 관광지를 상세히 설명하고 있습니다. 블로그 방문자 수가 많고 사진도 고품질입니다.",
+      "line_number": 321,
+      "action": "replace"
+    },
+    {
+      "id": "schedule-chitose",
+      "location": "Schedule component - New Chitose Airport",
+      "current_link": "https://travel.hasummer.com/19",
+      "recommended_link": "https://travel.hasummer.com/19",
+      "label": "신치토세 공항 도착 및 JR역으로 이동",
+      "reason": "이 링크는 신치토세 공항에 관한 정보가 잘 정리되어 있어 유지하는 것이 좋습니다.",
+      "line_number": 540,
+      "action": "keep"
+    },
+    {
+      "id": "schedule-hill-buddha",
+      "location": "Schedule component - Hill of Buddha",
+      "current_link": "https://carpett5.tistory.com/entry/%EB%B6%81%ED%95%B4%EB%8F%84%ED%99%8B%EC%B9%B4%EC%9D%B4%EB%8F%84-%EC%97%AC%ED%96%89-%EA%B0%80%EC%9D%B4%EB%93%9C-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%97%AC%ED%96%89%EB%B6%80%ED%84%B0-%EC%9E%90%EC%9C%A0%EC%97%AC%ED%96%89%EA%B9%8C%EC%A7%80-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC",
+      "recommended_link": "https://carpett5.tistory.com/entry/%EB%B6%81%ED%95%B4%EB%8F%84%ED%99%8B%EC%B9%B4%EC%9D%B4%EB%8F%84-%EC%97%AC%ED%96%89-%EA%B0%80%EC%9D%B4%EB%93%9C-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%97%AC%ED%96%89%EB%B6%80%ED%84%B0-%EC%9E%90%EC%9C%A0%EC%97%AC%ED%96%89%EA%B9%8C%EC%A7%80-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC",
+      "label": "마코마나이 타키노 묘지(真駒内滝野霊園) - 대불상(Hill of Buddha) 관람",
+      "reason": "이 링크는 홋카이도 여행 전반에 관한 좋은 정보를 담고 있어 유지하는 것이 좋습니다.",
+      "line_number": 572,
+      "action": "keep"
+    },
+    {
+      "id": "schedule-moerenuma",
+      "location": "Schedule component - Moerenuma Park",
+      "current_link": "https://blog.naver.com/allin69_/223639621090",
+      "recommended_link": "https://blog.naver.com/allin69_/223639621090",
+      "label": "모에레누마 공원(モエレ沼公園) 관람",
+      "reason": "이 링크는 최신(2023년)이며 모에레누마 공원에 대한 상세한 정보와 좋은 사진을 제공하므로 유지하는 것이 좋습니다.",
+      "line_number": 580,
+      "action": "keep"
+    },
+    {
+      "id": "schedule-beer-museum",
+      "location": "Schedule component - Sapporo Beer Museum",
+      "current_link": "https://blog.naver.com/hgejsh/223752566104",
+      "recommended_link": "https://blog.naver.com/hgejsh/223752566104",
+      "label": "삿포로 맥주 박물관(サッポロビール博物館) 방문",
+      "reason": "이 링크는 최신(2024년)이며 삿포로 맥주 박물관에 대한 정보가 잘 정리되어 있어 유지하는 것이 좋습니다.",
+      "line_number": 594,
+      "action": "keep"
+    },
+    {
+      "id": "schedule-otaru-canal",
+      "location": "Schedule component - Otaru Canal",
+      "current_link": "https://blog.naver.com/roseny3366/223368268507",
+      "recommended_link": "https://winters-story.tistory.com/entry/오타루-여행코스",
+      "label": "오타루 운하(小樽運河) 산책",
+      "reason": "winters-story의 블로그는 오타루 운하를 포함한 오타루 전체 여행 코스에 대해 더 포괄적이고 상세한 정보를 제공합니다.",
+      "line_number": 627,
+      "action": "replace"
+    },
+    {
+      "id": "schedule-sakaimachi",
+      "location": "Schedule component - Sakaimachi Street",
+      "current_link": "https://blog.naver.com/eunji30love/223157863492",
+      "recommended_link": "https://winters-story.tistory.com/entry/오타루-여행코스",
+      "label": "사카이마치 거리 탐방",
+      "reason": "winters-story의 블로그는 사카이마치 거리를 포함한 오타루 전체 여행 코스에 대해 더 포괄적이고 상세한 정보를 제공합니다.",
+      "line_number": 639,
+      "action": "replace"
+    },
+    {
+      "id": "schedule-mt-moiwa",
+      "location": "Schedule component - Mt. Moiwa",
+      "current_link": "https://blog.naver.com/alsgh3319/223668343828",
+      "recommended_link": "https://blog.naver.com/hoola1126/223280764589",
+      "label": "모이와 산(藻岩山) 방문",
+      "reason": "hoola1126의 블로그는 모이와 산에 대한 더 상세한 정보와 최적의 방문 시간, 로프웨이 이용법, 전망대에서 볼 수 있는 경치 등에 대한 구체적인 정보를 제공합니다.",
+      "line_number": 671,
+      "action": "replace"
+    },
+    {
+      "id": "schedule-shiroi-koibito",
+      "location": "Schedule component - Shiroi Koibito Park",
+      "current_link": "https://blog.naver.com/he_edong/223839791351",
+      "recommended_link": "https://blog.naver.com/daun1217/223184618395",
+      "label": "시로이 코이비토 파크 방문 및 점심",
+      "reason": "daun1217의 블로그는 시로이 코이비토 파크에 대해 더 상세한 정보와 내부 시설, 체험 프로그램, 쇼핑 팁 등을 제공하며 사진도 매우 풍부합니다.",
+      "line_number": 679,
+      "action": "replace"
+    },
+    {
+      "id": "food-shiroi-koibito",
+      "location": "Food component - Shiroi Koibito dessert item",
+      "current_link": "https://blog.naver.com/he_edong/223839791351",
+      "recommended_link": "https://blog.naver.com/daun1217/223184618395",
+      "label": "시로이 코이비토",
+      "reason": "위와 동일한 이유로 더 상세한 정보를 제공합니다.",
+      "line_number": 923,
+      "action": "replace"
+    },
+    {
+      "id": "facts-grid-city",
+      "location": "Facts component - Grid city section",
+      "current_link": "https://bohemihan.tistory.com/entry/삿포로ㅣ꼭-가봐야할-곳만-담은-당일치기-여행코스",
+      "recommended_link": "https://blog.naver.com/xxupqso6316/223271222774",
+      "label": "격자형 도시",
+      "reason": "이 블로그는 삿포로의 도시계획과 격자형 구조에 초점을 맞추어 더 전문적인 정보를 제공합니다. 삿포로의 도시 계획 역사와 미국식 영향에 대한 내용이 포함되어 있습니다.",
+      "line_number": 1498,
+      "action": "replace"
+    }
+  ]
+}
