@@ -235,7 +235,7 @@ const Overview = () => (
     
     <div className="bg-blue-50 p-4 rounded-lg mb-6">
       <p className="text-gray-700 mb-4">
-        홋카이도 3박 4일 봄 여행을 위한 완벽한 계획입니다. 편리한 교통과 깔끔한 숙소, 현지 특색 음식을 중심으로 구성했습니다. 삿포로 중심으로 오타루와 주변 명소를 효율적으로 둘러볼 수 있는 일정이며, 5월 말의 홋카이도는 15-20°C의 쾌적한 날씨와 함께 봄꽃 시즌을 즐길 수 있는 최적의 시기입니다.
+        홋카이도 3박 4일 봄 여행을 위한 완벽한 계획입니다. 편리한 교통과 깔끔한 숙소, 현지 특색 음식을 중심으로 구성했습니다. 삿포로 중심으로 오타루와 주변 명소를 효율적으로 둘러볼 수 있는 일정이며, 봄 시즌의 홋카이도는 15-20°C의 쾌적한 날씨와 함께 봄꽃 시즌을 즐길 수 있는 최적의 시기입니다.
       </p>
     </div>
     
@@ -254,13 +254,13 @@ const Overview = () => (
               <div className="flex justify-between items-center">
                 <div>
                   <p className="font-semibold">서울/인천 (터미널 2)</p>
-                  <p className="text-sm">5월 말</p>
+                  <p className="text-sm">봄 시즌</p>
                   <p className="text-xs text-blue-600">대한항공</p>
                 </div>
                 <div className="text-blue-600">→</div>
                 <div>
                   <p className="font-semibold">삿포로/치토세 (터미널 I)</p>
-                  <p className="text-sm">5월 말</p>
+                  <p className="text-sm">봄 시즌</p>
                   <p className="text-xs">소요시간: 2시간 45분</p>
                 </div>
               </div>
@@ -270,14 +270,14 @@ const Overview = () => (
               <div className="flex justify-between items-center">
                 <div>
                   <p className="font-semibold">삿포로/치토세 (터미널 I)</p>
-                  <p className="text-sm">6월 초</p>
+                  <p className="text-sm">봄 시즌</p>
                   <p className="text-xs text-blue-600">※ 출발 2시간 전 공항 도착</p>
                   <p className="text-xs text-blue-600">대한항공</p>
                 </div>
                 <div className="text-blue-600">→</div>
                 <div>
                   <p className="font-semibold">서울/인천 (터미널 2)</p>
-                  <p className="text-sm">6월 초</p>
+                  <p className="text-sm">봄 시즌</p>
                   <p className="text-xs">소요시간: 3시간 10분</p>
                 </div>
               </div>
@@ -350,7 +350,7 @@ const Overview = () => (
       <div className="p-4">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           <div>
-            <h4 className="font-semibold text-blue-800 mb-2">5월 말~6월 초 날씨</h4>
+            <h4 className="font-semibold text-blue-800 mb-2">봄 시즌 날씨</h4>
             <ul className="space-y-2">
               <li className="flex items-center">
                 <span className="bg-blue-100 text-blue-800 rounded-full p-1 mr-2">
@@ -850,7 +850,7 @@ const Food = ({ activeFood, setActiveFood }) => {
         name: '우니 (성게알, うに)',
         description: '홋카이도에서 가장 유명한 해산물 중 하나',
         restaurants: ['우니 무라카미(ウニ むらかみ)', '니조 시장 내 해산물 전문점'],
-        tips: '5월 말~6월 초가 절정기, 보존료 없는 신선한 성게 덮밥이나 성게 그라탕을 추천',
+        tips: '봄 시즌이 절정기, 보존료 없는 신선한 성게 덮밥이나 성게 그라탕을 추천',
         image: '🌊',
         link: 'https://www.instagram.com/explore/tags/うに/'
       },
@@ -1018,10 +1018,10 @@ const Food = ({ activeFood, setActiveFood }) => {
         <div className="mt-6 bg-blue-50 p-4 rounded-lg">
           <h3 className="font-semibold text-blue-800 mb-2">해산물 제철 정보</h3>
           <p className="text-gray-700 text-sm mb-2">
-            5월 말~6월 초는 홋카이도에서 다음 해산물이 가장 맛있는 시기입니다:
+            봄 시즌은 홋카이도에서 다음 해산물이 가장 맛있는 시기입니다:
           </p>
           <ul className="list-disc pl-5 space-y-1 text-gray-700 text-sm">
-            <li>성게(우니/うに): 5월 말~6월 초가 절정기</li>
+            <li>성게(우니/うに): 봄 시즌이 절정기</li>
             <li>가리비(帆立/호타테): 4~6월이 살이 통통하게 오르는 시기</li>
             <li>연어(サーモン/사몬): 봄철 연어는 기름기가 적당하여 담백</li>
             <li>털게(毛蟹/케가니): 봄에 가장 맛있음</li>
@@ -1089,7 +1089,7 @@ const HotelInfo = () => {
             <div>
               <p className="font-bold text-green-800">호텔 포르자 삿포로 스테이션 (Hotel Forza Sapporo Station)</p>
               <p className="text-sm text-gray-700">JR 삿포로 역 남쪽 출구에서 도보 4분</p>
-              <p className="text-sm text-gray-700">2025년 5월 31일 ~ 6월 2일 (2박)</p>
+              <p className="text-sm text-gray-700">봄 시즌 첫째날~셋째날 (2박)</p>
             </div>
           </div>
           
@@ -1098,7 +1098,7 @@ const HotelInfo = () => {
             <div>
               <p className="font-bold text-green-800">그리드 프리미엄 호텔 오타루 (GRIDS PREMIUM HOTEL OTARU)</p>
               <p className="text-sm text-gray-700">오타루 아카이와 지역 중심부</p>
-              <p className="text-sm text-gray-700">2025년 6월 2일 ~ 6월 3일 (1박)</p>
+              <p className="text-sm text-gray-700">봄 시즌 셋째날~넷째날 (1박)</p>
             </div>
           </div>
         </div>
@@ -1259,7 +1259,7 @@ const HotelInfo = () => {
       <div className="mt-6 bg-yellow-50 p-4 rounded-lg border border-yellow-200">
         <h3 className="font-semibold text-yellow-800 mb-2">예약 팁</h3>
         <ul className="list-disc pl-5 space-y-2 text-yellow-800 text-sm">
-          <li>5월 말~6월 초는 성수기 직전의 좋은 시기이나, 이 일정에 맞게 최소 2-3개월 전에 예약하는 것이 좋습니다.</li>
+          <li>봄 시즌은 성수기 직전의 좋은 시기이나, 이 일정에 맞게 최소 2-3개월 전에 예약하는 것이 좋습니다.</li>
           <li>일본 호텔은 체크인 시간이 대부분 15:00 이후이고, 체크아웃은 10:00-11:00입니다.</li>
           <li>호텔 공식 웹사이트로 직접 예약하면 종종 추가 혜택이나 회원 할인을 받을 수 있습니다.</li>
           <li>예약 전에 취소 정책을 꼭 확인하세요. 일부 저렴한 요금은 취소/변경이 불가능할 수 있습니다.</li>
@@ -1479,7 +1479,7 @@ const Facts = () => {
       },
       {
         title: '축제',
-        content: '삿포로 눈 축제(2월), 요사코이 소란 축제(6월), 오타루 눈빛길 축제(2월)가 유명합니다. 매년 2월 개최되는 삿포로 눈축제는 약 200만 명이 방문하는 세계 3대 눈축제 중 하나로, 5월 말에는 삿포로 라일락 축제가 열려 오도리 공원에 라일락이 만개해 봄의 정취를 느낄 수 있습니다.',
+        content: '삿포로 눈 축제(2월), 요사코이 소란 축제(6월), 오타루 눈빛길 축제(2월)가 유명합니다. 매년 2월 개최되는 삿포로 눈축제는 약 200만 명이 방문하는 세계 3대 눈축제 중 하나로, 봄 시즌에는 삿포로 라일락 축제가 열려 오도리 공원에 라일락이 만개해 봄의 정취를 느낄 수 있습니다.',
         link: 'https://blog.naver.com/interest11755/223755727358'
       },
       {
@@ -1516,7 +1516,7 @@ const Facts = () => {
       },
       {
         title: '여행 준비 팁',
-        content: '5월 말에도 아침저녁으로 쌀쌀할 수 있으니 가벼운 자켓이나 스웨터를 준비하세요. 또한 일본은 카드보다 현금 사용이 많은 편이니 충분한 현금(엔화)을 준비하거나 국제 ATM 사용이 가능한 카드를 지참하는 것이 좋습니다.',
+        content: '봄 시즌에도 아침저녁으로 쌀쌀할 수 있으니 가벼운 자켓이나 스웨터를 준비하세요. 또한 일본은 카드보다 현금 사용이 많은 편이니 충분한 현금(엔화)을 준비하거나 국제 ATM 사용이 가능한 카드를 지참하는 것이 좋습니다.',
         link: 'https://m.blog.naver.com/sticky4/221307355438'
       }
     ]
@@ -1910,7 +1910,7 @@ const TodoList = () => {
       },
       { 
         task: '날씨 확인 및 의류 준비', 
-        description: '5월 말~6월 초 홋카이도 날씨 확인 (낮 15-20°C, 밤 7-12°C)',
+        description: '봄 시즌 홋카이도 날씨 확인 (낮 15-20°C, 밤 7-12°C)',
         deadline: '출발 1주 전',
         status: 'pending',
         priority: 'medium',
@@ -2010,7 +2010,7 @@ const TodoList = () => {
     packing: [
       { 
         task: '의류', 
-        description: '5월 말~6월 초 홋카이도 날씨에 맞는 의류',
+        description: '봄 시즌 홋카이도 날씨에 맞는 의류',
         items: [
           '얇은 긴팔 셔츠/블라우스 3-4벌',
           '긴바지/청바지 2벌',
@@ -2384,7 +2384,7 @@ const TodoList = () => {
         <h3 className="font-semibold text-yellow-800 mb-2">여행 준비 유의사항</h3>
         <ul className="list-disc pl-5 space-y-1 text-gray-700 text-sm">
           <li>여권, 항공권, 예약정보는 모바일과 출력본으로 모두 준비하는 것이 안전합니다.</li>
-          <li>5월 말~6월 초 홋카이도는 기온 차이가 있어 겹쳐 입을 수 있는 옷을 준비하세요.</li>
+          <li>봄 시즌 홋카이도는 기온 차이가 있어 겹쳐 입을 수 있는 옷을 준비하세요.</li>
           <li>환율 변동이 있을 수 있으니 여행 2-3일 전에 환전하는 것이 유리합니다.</li>
           <li>일본은 카드 사용이 가능하지만, 일부 소규모 상점이나 식당은 현금만 받는 경우가 있습니다.</li>
           <li>일본 전기 콘센트는 한국과 동일한 A형 플러그를 사용하므로 변환 어댑터가 필요없습니다.</li>
