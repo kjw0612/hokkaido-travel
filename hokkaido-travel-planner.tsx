@@ -186,7 +186,7 @@ const HokkaidoTripPlanner = () => {
       {/* 페이지 하단 저작권 표시 */}
       <footer className="max-w-6xl mx-auto text-center text-gray-500 text-sm py-4">
         <p>© 홋카이도 여행 플래너 | 봄 시즌용 여행 계획</p>
-        <p className="mt-1">최종 수정일: {new Date().toLocaleDateString('ko-KR', {year: 'numeric', month: 'long', day: 'numeric'})}</p>
+        <p className="mt-1">최종 수정일: 2025년 5월 10일</p>
         <div className="flex items-center justify-center mt-2">
           <a href="https://www.japan.travel/ko/kr/" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline mx-2" aria-label="일본정부관광국 공식 사이트로 이동">
             일본정부관광국
